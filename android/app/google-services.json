@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735181735778",
+    "project_id": "cs-cube-f8050",
+    "storage_bucket": "cs-cube-f8050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735181735778:android:40820ef9ebe5d22d520e3b",
+        "android_client_info": {
+          "package_name": "com.example.cs_cube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EVjEpvcAcEroPvfGfct8735zd6igXTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
